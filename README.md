@@ -1,6 +1,7 @@
 # wavedrom
 Drawn some timing diagram on: https://wavedrom.com/editor.html
 
+wavedrom uses javascript
 
 First diagram of SPI protocol:
 ![grafik](https://github.com/Dannyracho1/wavedrom/assets/64934810/8543becd-8acc-4f0d-9edd-f62fb23257e5)
